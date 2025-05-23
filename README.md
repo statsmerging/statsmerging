@@ -1,4 +1,4 @@
-# StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation
+# _StatsMerging_: Statistics-Guided Model Merging via Task-Specific Teacher Distillation
 
 Official implementation of our method for efficient model merging using task-specific teacher distillation and statistical feature guidance.
 
